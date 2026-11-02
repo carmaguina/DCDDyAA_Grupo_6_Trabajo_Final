@@ -1,5 +1,7 @@
 # Predicción de Intención de Compra en E-Commerce
 
+> Fork del repositorio del equipo, mantenido en el portfolio de Carla Maguina. Repositorio original: [pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final](https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final).
+
 **Diplomatura en Ciencia de Datos y Análisis Avanzado — UTN.BA**  
 **Grupo N° 6**  
 * **Integrantes:** Cicchitti Silvana, D'Amico Pablo Ezequiel, Maguina Carla, Morrone Marianela, Rey Pablo Agustín.
@@ -37,7 +39,7 @@ Desarrollo de un modelo de clasificación supervisada para predecir si una sesi�
 ### Entorno Local
 Clonar el repositorio y configurar el entorno virtual:
 ```bash
-git clone https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final.git
+git clone https://github.com/carmaguina/DCDDyAA_Grupo_6_Trabajo_Final.git
 cd DCDDyAA_Grupo_6_Trabajo_Final
 
 python -m venv .venv
